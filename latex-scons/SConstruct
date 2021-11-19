@@ -1,0 +1,4 @@
+env = Environment()
+env.Replace(PDFLATEX='xelatex')
+SConscript('src/SConscript', variant_dir='build', duplicate=0, exports='env')
+
