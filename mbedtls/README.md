@@ -27,7 +27,7 @@ index 5b2ad16cd..5c9a63ed4 100644
 scripts/config.py crypto
 ```
 
-https://github.com/ARMmbed/mbed-crypto
+Refer to [here](https://github.com/ARMmbed/mbed-crypto/blob/8cc246c6d33a139914d3070c6cf630aea6806aa4/README.md).
 
 ### Build
 

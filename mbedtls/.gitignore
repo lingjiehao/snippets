@@ -1,0 +1,8 @@
+*.o
+
+hash/generic_sum
+hash/hello
+hash/md_hmac_demo
+hash/md5sum
+hash/sha1sum
+hash/sha2sum
